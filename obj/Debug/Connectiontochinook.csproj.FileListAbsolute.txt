@@ -1,0 +1,6 @@
+c:\users\ns2\documents\visual studio 2015\Projects\Connectiontochinook\Connectiontochinook\bin\Debug\Connectiontochinook.exe.config
+c:\users\ns2\documents\visual studio 2015\Projects\Connectiontochinook\Connectiontochinook\bin\Debug\Connectiontochinook.exe
+c:\users\ns2\documents\visual studio 2015\Projects\Connectiontochinook\Connectiontochinook\bin\Debug\Connectiontochinook.pdb
+c:\users\ns2\documents\visual studio 2015\Projects\Connectiontochinook\Connectiontochinook\obj\Debug\Connectiontochinook.exe
+c:\users\ns2\documents\visual studio 2015\Projects\Connectiontochinook\Connectiontochinook\obj\Debug\Connectiontochinook.pdb
+C:\Users\NS2\Documents\Visual Studio 2015\Projects\Connectiontochinook\Connectiontochinook\obj\Debug\Connectiontochinook.csprojResolveAssemblyReference.cache
